@@ -21,4 +21,4 @@ def tipos_numeros (numeros):
         
 #ejemplo de uso
 
-tipos_numeros ((3,6,17,28,96,120258,33550336))
+tipos_numeros ((3,6,17,28,96,120258,33550336)) 
